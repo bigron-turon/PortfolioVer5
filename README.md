@@ -3,7 +3,7 @@
 My personal portfolio website, built to show who I am, what I have learned and the projects I have worked on as an Information Technology student.
 
 - **Live site:** https://portfoliover5-n1miwmzo7-rohnmonrheybanares-8121.vercel.app
-- **Repository:** https://github.com/bigron-turon/portfolio
+- **Repository:** https://github.com/bigron-turon/PortfolioVer5
 
 ## Sections
 
